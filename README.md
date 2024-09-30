@@ -1,5 +1,5 @@
 >Description
-Hi welcome to my new deep learning project "Yoga Asana Classifier / pose classifier ". This project as the name suggests can predict the yoga pose which you are doing in front of the webcam.
+ This project as the name suggests can predict the yoga pose which you are doing in front of the webcam.
 This project comprise of three python scripts namely,
 Data Collection
 Data Training<
